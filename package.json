@@ -1,14 +1,14 @@
 {
-  "name": "raganork-md", 
+  "name": "wrap freekzz bot", 
   "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "description": "wrapfreekzz whatsapp bot- Multi device version.",
+  "main": "./wrapfreekzz/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/wrapfr33kzz/wrap-freekzz"
   },
   "keywords": [
     "whatsapp",
@@ -18,7 +18,7 @@
   "author": "Sourav",
   "developer": "@souravkl11",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/wrapfr33kzz/wrap-freekzz",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
     "@adiwajshing/keyed-db":"0.2.4",
