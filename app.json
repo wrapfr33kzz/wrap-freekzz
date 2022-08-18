@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/wrapfr33kzz/wrap-freekzz",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"wrap freekzzyt"
         },
         "CHATBOT": {
             "description": "AI chatbot",
